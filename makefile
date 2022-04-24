@@ -1,6 +1,6 @@
 CCC = cc -c
 CCO = cc -o
-FLAGS = -Wall -pedantic -Wextra
+FLAGS = -Wall -pedantic -Wextra -O3
 DEL = -rm -r *.o index bin/
 MD = -mkdir bin/
 MV = mv *.o bin/

@@ -1,11 +1,11 @@
-# Program Index
-Program tworzony w ramach zajęć laboratoryjnych z języków i metod programowania na kierunku Informatyka Stosowana w zespołach dwu-osobowych. Celem zajęć było napisanie programu zliczającego liczbę wystąpień słów w pliku podawanych podczas wywołania programu. Repozytorium stanowi upload końcowego stanu zadania.
+# Index
+Program made during laboratory classes of "Języki i Metody Programowania" on Applied Computer Science. Our goal was to create program which would count words given as program argument call in given file. Repository is an upload of project.
 
-# Składnia
+# Program usage
 ```./index [file] [words]```
 
-# Kompilacja programu
-Kompilacja odbywa się poprzez wywołanie:\
+# Programs compilation
+To compile program you have to use:\
 ```make```\
-Natomiast usunięcie plików po zakończeniu korzystania z programu odbywa się poprzez wykorzystanie komendy:\
+To clean working files:\
 ```make clean```
